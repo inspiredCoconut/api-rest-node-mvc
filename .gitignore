@@ -1,2 +1,8 @@
 # node modules
 node_modules
+
+# npm debug log
+npm-debug.log
+
+# sqlite database
+database.sqlite
